@@ -1,0 +1,9 @@
+[user]
+	email = matthieu.dufour@pm.me
+	name = Matthieu DUFOUR
+[push]
+	default = simple
+[pull]
+	rebase = true
+[core]
+	editor = nvim
